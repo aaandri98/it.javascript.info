@@ -1,10 +1,10 @@
-# Form properties and methods
+# Proprietà e metodi dei moduli
 
-Forms and control elements, such as `<input>` have a lot of special properties and events.
+I moduli e gli elementi di controllo, come <input>, hanno molte proprietà ed eventi speciali.
 
-Working with forms will be much more convenient when we learn them.
+Lavorare con i moduli sarà più conveniente dopo averli imparati.
 
-## Navigation: form and elements
+## Navigazione: modulo ed elementi
 
 Document forms are members of the special collection `document.forms`.
 
